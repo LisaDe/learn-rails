@@ -8,7 +8,6 @@ gem 'sass-rails', '~> 4.0.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
-gem 'turbolinks'
 
 # learn-rails
 gem 'activerecord-tableless'
@@ -19,7 +18,7 @@ gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
-gem 'foundation-rails'
+gem 'foundation-rails', '~> 5.0.3.1'
 
 group :development do
   gem 'better_errors' 
